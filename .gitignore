@@ -1,0 +1,8 @@
+venv/
+
+*.pyc
+
+# User-specific stuff:
+.idea/
+notes/
+homework/
